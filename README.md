@@ -12,3 +12,8 @@
 
 ## Entity Relationship Diagram
 ![image](https://github.com/eangutierrez/Sakila_Practice_Queries/assets/92600212/4e3c274b-c7bc-478a-8c7e-41bef96991bf)
+
+## Sample Tables
+![image](https://github.com/eangutierrez/Sakila_Practice_Queries/assets/92600212/b51b7524-676c-43a6-9a1e-d8f203fa0349)
+![image](https://github.com/eangutierrez/Sakila_Practice_Queries/assets/92600212/79b59198-1c66-4d46-a876-9f823067fa75)
+
