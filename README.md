@@ -11,7 +11,7 @@
 **MySQL Version:** 8.0.31
 
 ## Entity Relationship Diagram
-![image]([https://dbdiagram.io/d/608d07e4b29a09603d12edbd/?utm_source=dbdiagram_embed&utm_medium=bottom_open](https://dev.mysql.com/doc/sakila/en/images/sakila-schema.png)https://dev.mysql.com/doc/sakila/en/images/sakila-schema.png)
+![image](https://dev.mysql.com/doc/sakila/en/images/sakila-schema.png)
 
 ## Sample Tables
 
