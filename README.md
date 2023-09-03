@@ -1,5 +1,5 @@
 # Sakila Database Practice Queries
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png"
+<img src="https://images.unsplash.com/photo-1581905764498-f1b60bae941a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
  width=30% height=30% align=right>
 
 ## Business Task
