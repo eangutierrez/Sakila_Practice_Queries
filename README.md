@@ -12,7 +12,3 @@
 
 ## Entity Relationship Diagram
 ![image](https://dev.mysql.com/doc/sakila/en/images/sakila-schema.png)
-
-## Sample Tables
-
-
