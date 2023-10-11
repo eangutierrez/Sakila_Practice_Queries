@@ -5,7 +5,7 @@
 --Author: Tony Gutierrez
 --Date: 05/02/2023
 --Tool used: DBeaver, MySQL
-/* These are queries I learned to use by studing Alan Beaulieu's Learning SQL Third Edition.
+/* These are queries I learned to use by studying Alan Beaulieu's Learning SQL Third Edition.
 All queries are run using the Sakila Database.  Please refer to the sakila-data.sql and the 
 sakila-schema.sql files on the portfolio to create the schema and upload the data to test
 these queries  */
